@@ -1,6 +1,15 @@
 *{
    font-family:poppins,sans-serif;
        }
+        .mainLogo{
+         margin:1rem 0px 0px 1.5rem;
+         height:5rem;
+         width:95%;
+       }
+       .MainLogo{
+         height:4.5rem;
+         width:4.5rem;
+       }
        .container{
        display:flex;
        justify-content:center;
