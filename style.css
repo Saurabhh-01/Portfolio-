@@ -1,7 +1,20 @@
 *{
    font-family:poppins,sans-serif;
        }
-       
+       .container{
+       display:flex;
+       justify-content:center;
+       align-items:center;
+       flex-direction:column;
+       gap:2px;
+     } 
+     .box{
+       height:2px;
+       width:24px;
+       background:black;
+       border:1px solid black;
+       border-radius:5px;
+     }  
      nav{
        height:2rem;
        width:100%;
